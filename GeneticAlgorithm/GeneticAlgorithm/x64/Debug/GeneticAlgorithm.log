@@ -1,0 +1,4 @@
+﻿  GeneticAlgorithm.cpp
+C:\Users\cfelek\Documents\CPP projects\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm.cpp(38,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\cfelek\Documents\CPP projects\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm.cpp(87,54): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  GeneticAlgorithm.vcxproj -> C:\Users\cfelek\Documents\CPP projects\GeneticAlgorithm\GeneticAlgorithm\x64\Debug\GeneticAlgorithm.exe
